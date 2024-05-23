@@ -6,6 +6,7 @@
   }
   body {
     background-color: #fdbf00;
+    width: 100vw;
   }
   .card {
     width: 640px;
